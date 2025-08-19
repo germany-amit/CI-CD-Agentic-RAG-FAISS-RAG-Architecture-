@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+langchain
+sentence-transformers
+transformers
+faiss-cpu
+numpy
+torch
+bert-score
